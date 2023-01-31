@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T21:30:09.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.70" etag="A_Oyjcm9-4fU0Bjqhfii" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T23:45:17.657Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.70" etag="V1Qgyydx4M7lmgK_wPBR" version="20.8.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="2764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -20,7 +20,7 @@
           <mxGeometry x="260" y="-1467.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="YMJJve0_kKkiC92dxt4T-10" value="Cargar Solicitud al Proveedor" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="155" y="-1380" width="90" height="80" as="geometry" />
+          <mxGeometry x="75" y="-1360" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YMJJve0_kKkiC92dxt4T-13" value="SI" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="YMJJve0_kKkiC92dxt4T-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -74,7 +74,7 @@
         </mxCell>
         <mxCell id="YMJJve0_kKkiC92dxt4T-30" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="-720" as="sourcePoint" />
+            <mxPoint x="380" y="-520" as="sourcePoint" />
             <mxPoint x="380" y="-1980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -120,8 +120,11 @@
             <mxPoint x="701" y="-1877.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cx7c3rj6xxl5LqJ8135P-19" value="Envía Cotización Incluyendo:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Valor Final a Facturar&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Condiciones de Contratación&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="396.5" y="-940" width="239" height="60" as="geometry" />
+        <mxCell id="cx7c3rj6xxl5LqJ8135P-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cx7c3rj6xxl5LqJ8135P-19" target="cx7c3rj6xxl5LqJ8135P-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cx7c3rj6xxl5LqJ8135P-19" value="Envía Cotización Incluyendo:&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Valor Final a Facturar&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Condiciones de Contratación&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Indica Fecha Inicio de Prestacion de Servicio&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="396.5" y="-940" width="239" height="100" as="geometry" />
         </mxCell>
         <mxCell id="cx7c3rj6xxl5LqJ8135P-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cx7c3rj6xxl5LqJ8135P-21" target="cx7c3rj6xxl5LqJ8135P-23">
           <mxGeometry relative="1" as="geometry" />
@@ -134,6 +137,18 @@
         </mxCell>
         <mxCell id="cx7c3rj6xxl5LqJ8135P-23" value="Formulario&lt;br&gt;Aprobado" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="-1690" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cx7c3rj6xxl5LqJ8135P-27" value="Notificacion al Proveedor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="-1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cx7c3rj6xxl5LqJ8135P-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cx7c3rj6xxl5LqJ8135P-29" target="cx7c3rj6xxl5LqJ8135P-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cx7c3rj6xxl5LqJ8135P-29" value="Cargar la OP y Iniciar Carga en FieldGlass" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="-800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cx7c3rj6xxl5LqJ8135P-31" value="Cargar ID FieldGlass en la Herramienta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="-690" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

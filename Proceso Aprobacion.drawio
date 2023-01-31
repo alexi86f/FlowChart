@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T21:30:18.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.70" etag="I0fLnseeJ-fNGhYXrAtt" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T23:41:10.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.70" etag="PkzD87cwObmcAy2D4Oj5" version="20.8.13" type="github">
   <diagram name="Página-1" id="W01HY7S1i-WApw63HTxu">
     <mxGraphModel dx="1434" dy="2764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="sReVO3ItDBOOGBIu__WI-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;MGR REQUIRENTE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="-1970" width="240" height="40" as="geometry" />
+        <mxCell id="sReVO3ItDBOOGBIu__WI-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;MGR REQUIRIENTE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="-1970" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -19,16 +19,16 @@
         <mxCell id="sReVO3ItDBOOGBIu__WI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sReVO3ItDBOOGBIu__WI-4" target="sReVO3ItDBOOGBIu__WI-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sReVO3ItDBOOGBIu__WI-4" value="Carga de Solicitud en SharePoint" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sReVO3ItDBOOGBIu__WI-4" value="Carga de Solicitud en SharePoint /&amp;nbsp; Form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="-1900" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sReVO3ItDBOOGBIu__WI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sReVO3ItDBOOGBIu__WI-5">
+        <mxCell id="sReVO3ItDBOOGBIu__WI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sReVO3ItDBOOGBIu__WI-5" target="sReVO3ItDBOOGBIu__WI-12">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="-1750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-5" value="Validación de Información" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-1820" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="-1790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="sReVO3ItDBOOGBIu__WI-10">
           <mxGeometry relative="1" as="geometry">
@@ -50,7 +50,7 @@
           <mxGeometry x="510" y="-1660" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-12" value="Solicitud de Aprobación" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-1750" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="-1740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-13" value="Notificación y Cierre" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="650" y="-1640" width="120" height="40" as="geometry" />

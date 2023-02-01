@@ -1,38 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T23:41:10.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.70" etag="PkzD87cwObmcAy2D4Oj5" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T13:27:57.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.70" etag="5End5Tr8VcVgCDw_2ZSv" version="20.8.13" type="github">
   <diagram name="Página-1" id="W01HY7S1i-WApw63HTxu">
-    <mxGraphModel dx="1434" dy="2764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="3764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sReVO3ItDBOOGBIu__WI-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;MGR REQUIRIENTE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="65" y="-1970" width="250" height="40" as="geometry" />
+          <mxGeometry x="40" y="-2940" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="-720" as="sourcePoint" />
-            <mxPoint x="380" y="-1980" as="targetPoint" />
+            <mxPoint x="377" y="-2030" as="sourcePoint" />
+            <mxPoint x="377" y="-2980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;VP DEL AREA&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-1970" width="180" height="40" as="geometry" />
+          <mxGeometry x="475" y="-2940" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sReVO3ItDBOOGBIu__WI-4" target="sReVO3ItDBOOGBIu__WI-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-4" value="Carga de Solicitud en SharePoint /&amp;nbsp; Form" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-1900" width="120" height="60" as="geometry" />
+          <mxGeometry x="95" y="-2870" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sReVO3ItDBOOGBIu__WI-5" target="sReVO3ItDBOOGBIu__WI-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="-1750" as="targetPoint" />
+            <mxPoint x="535" y="-2720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-5" value="Validación de Información" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-1790" width="120" height="60" as="geometry" />
+          <mxGeometry x="95" y="-2760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="sReVO3ItDBOOGBIu__WI-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="-1690" as="sourcePoint" />
+            <mxPoint x="535" y="-2660" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sReVO3ItDBOOGBIu__WI-10" target="sReVO3ItDBOOGBIu__WI-13">
@@ -41,34 +41,34 @@
         <mxCell id="sReVO3ItDBOOGBIu__WI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sReVO3ItDBOOGBIu__WI-10" target="sReVO3ItDBOOGBIu__WI-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="560" y="-1540" />
-              <mxPoint x="960" y="-1540" />
+              <mxPoint x="535" y="-2510" />
+              <mxPoint x="935" y="-2510" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-10" value="Aprueba?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="-1660" width="100" height="80" as="geometry" />
+          <mxGeometry x="485" y="-2630" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-12" value="Solicitud de Aprobación" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-1740" width="120" height="60" as="geometry" />
+          <mxGeometry x="475" y="-2710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-13" value="Notificación y Cierre" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="650" y="-1640" width="120" height="40" as="geometry" />
+          <mxGeometry x="625" y="-2610" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;HR&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="-1970" width="60" height="40" as="geometry" />
+          <mxGeometry x="985" y="-2940" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="-720" as="sourcePoint" />
-            <mxPoint x="840" y="-1980" as="targetPoint" />
+            <mxPoint x="827" y="-2030" as="sourcePoint" />
+            <mxPoint x="827" y="-2970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sReVO3ItDBOOGBIu__WI-18" target="sReVO3ItDBOOGBIu__WI-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-18" value="Validación:&lt;br&gt;-Costos&lt;br&gt;-Rango Salarial" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="900" y="-1510" width="120" height="60" as="geometry" />
+          <mxGeometry x="875" y="-2480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sReVO3ItDBOOGBIu__WI-22" target="sReVO3ItDBOOGBIu__WI-24">
           <mxGeometry relative="1" as="geometry" />
@@ -77,13 +77,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-22" value="Aprueba?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="915" y="-1410" width="90" height="80" as="geometry" />
+          <mxGeometry x="890" y="-2380" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-24" value="Notificación y Cierre" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="-1390" width="120" height="40" as="geometry" />
+          <mxGeometry x="1015" y="-2360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sReVO3ItDBOOGBIu__WI-26" value="Formulario&lt;br&gt;Aprobado" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="910" y="-1280" width="100" height="80" as="geometry" />
+          <mxGeometry x="885" y="-2250" width="100" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
